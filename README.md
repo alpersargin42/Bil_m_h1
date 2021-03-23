@@ -1,1 +1,1 @@
-Bu kütüphane temel C bilgilerini içerir 
+Bu kütüphane temel C bilgilerini içerir.
